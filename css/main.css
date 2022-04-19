@@ -5,11 +5,8 @@ body{
     /* font-family: 'M PLUS Rounded 1c', sans-serif; */
     /* font-family: 'Noto Sans TC', sans-serif; */
     font-family: 'Public Sans', sans-serif;
-    
-    
-   
-}
 
+}
 
 /* --------- header top --------- */
 
@@ -24,6 +21,7 @@ header{
     background-position: top center;
 
     position: relative;
+
 }
 .header-top{
     height: 75px;
@@ -214,6 +212,7 @@ header{
 .main{
     width: 1366px;
     margin: auto;
+
 }
 
 .main-btn ul{
